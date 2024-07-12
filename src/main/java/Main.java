@@ -10,6 +10,8 @@ public class Main {
     System.out.println(number2)
   }
 }
+// Non-primitive data types are called reference types because they refer to objects.
+// Examples of non-primitive types are Strings, Arrays, Classes, Interface, etc. 
 // String - stores text, such as "Hello". String values are surrounded by double quotes
 // int - stores integers (whole numbers), without decimals, such as 123 or -123
 // float - stores floating point numbers, with decimals, such as 19.99 or -19.99
@@ -29,3 +31,10 @@ public class Main {
 // double	8 bytes	Stores fractional numbers. Sufficient for storing 15 decimal digits
 // boolean	1 bit	Stores true or false values
 // char	2 bytes	Stores a single character/letter or ASCII values
+// +	Addition	Adds together two values	x + y	
+// -	Subtraction	Subtracts one value from another	x - y	
+// *	Multiplication	Multiplies two values	x * y	
+// /	Division	Divides one value by another	x / y	
+// %	Modulus	Returns the division remainder	x % y	
+// ++	Increment	Increases the value of a variable by 1	++x	
+// --	Decrement	Decreases the value of a variable by 1	--x
