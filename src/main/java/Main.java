@@ -3,13 +3,40 @@ public class Main {
   static int age= 20;
   public static void main(String[] args) {
     int age= 20;
+    String name= "John";
     double number1= 5.8;
     int number2= (int)number1;
     System.out.println("Hello world!");
     System.out.println(age);
-    System.out.println(number2)
+    System.out.println(number2);
+    System.out.println(name);
+    Loops.main(new String[0]);
+    if (number1> 4) {
+       System.out.println("greater than 4");
+} else {
+      System.out.println("less than4");
+}
+    System.out.println(name.toUpperCase());
   }
 }
+// for (int i = 0; i < 10; i++) {
+//   if (i == 4) {
+//     continue;
+//   }
+//   System.out.println(i);
+// } 
+// counts but skips 4
+// switch(expression) {
+//   case x:
+//     // code block
+//     break;
+//   case y:
+//     // code block
+//     break;
+//   default:
+//     // code block
+// }
+// Math.max(x,y)
 // Non-primitive data types are called reference types because they refer to objects.
 // Examples of non-primitive types are Strings, Arrays, Classes, Interface, etc. 
 // String - stores text, such as "Hello". String values are surrounded by double quotes
