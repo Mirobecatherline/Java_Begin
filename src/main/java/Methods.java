@@ -43,3 +43,6 @@ public class Methods{//this is a class
 // }
 
 // Recursion is the technique of making a function call itself.
+// recursion is a technique of making a function call itself.
+// we have Base Case: This is the condition under which the recursion ends. 
+// Recursive Case: This part of the method includes a call to itself with a modified argument, gradually moving towards the base case.
