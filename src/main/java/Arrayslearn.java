@@ -1,7 +1,9 @@
 import java.until.ArrayList;// import the ArrayList class
 import java.util.LinkedList;
+import java.util.Collections;
+
 public class Arrayslearn{
-  // ArrayList class is a resizble array which can be found in the java.until package
+  // ArrayList class is a resizble array which can be found in the java.until package. elements can be added and removed from an ArrayList.
 //   ArrayList<String> cars = new ArrayList<String>  ();// creating an array list object
 //   cars.add("Volvo");// adding elements to the array list
 // cars.add("bmw");
@@ -26,7 +28,7 @@ public class Arrayslearn{
 // cars.add("Ford");
 // cars.add("Mazda");
 // Collections.sort(cars);  // Sort cars
-   // Collections.sort(cars, Collections.reverseOrder()); // Sort myNumbers
+   // Collections.sort(cars, Collections.reverseOrder()); // Sort myNumbers in reverse order
 // for (String i : cars) {
 //   System.out.println(i);
 // }
